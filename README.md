@@ -20,9 +20,10 @@
 
 ## 💻 Open Source Work Stats
 
-![ISnackable's Github stats](https://github-readme-stats.vercel.app/api?username=ISnackable&show_icons=true)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isnackable&" alt="isnackable" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISnackable&show_icons=true" alt="isnackable" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isnackable" alt="isnackable" width="49.5%"/>
+</p>
 
 <!--
 **ISnackable/ISnackable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
