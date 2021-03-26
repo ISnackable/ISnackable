@@ -10,7 +10,7 @@
 
 - 💬 Talk to me about **CTF, Hacking, Linux, Reverse Engineering**
 
-- 📝 CTF Writeups [https://isnackable.github.io/CTF-Writeups/](https://isnackable.github.io/CTF-Writeups/)
+- 📝 CTF Writeups [https://isnackable.github.io/](https://isnackable.github.io/)
 
 
 ## ⚙️ Languages and Tools
