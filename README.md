@@ -1,6 +1,6 @@
 # Hey there 👋, I'm ~~Tommy~~
 
-#### I am a cybersecurity student and a open-source advocate ✨
+#### I am a cybersecurity student and an open-source advocate ✨
 
 - 🔭 I’m currently working on **semantic code analysis query to detect vulnerabilities**
 
@@ -10,7 +10,7 @@
 
 - 💬 Talk to me about **CTF, Hacking, Linux, Reverse Engineering**
 
-- 📝 CTF Writeups [https://isnackable.github.io/](https://isnackable.github.io/)
+- 📝 Personal blog [https://isnackable.me/](https://isnackable.github.io/)
 
 
 ## ⚙️ Languages and Tools
