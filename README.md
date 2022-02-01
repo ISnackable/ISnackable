@@ -2,7 +2,7 @@
 
 #### I am a cybersecurity student and an open-source advocate ✨
 
-- 🔭 I’m currently working on **semantic code analysis query to detect vulnerabilities**
+- 🔭 I’m currently working on **Payload development / Vulnerability Research**
 
 - 🌱 I’m currently learning **Assembly, C++, Rust**
 
@@ -10,7 +10,7 @@
 
 - 💬 Talk to me about **CTF, Hacking, Linux, Reverse Engineering**
 
-- 📝 Personal blog [https://isnackable.me/](https://isnackable.github.io/)
+- 📝 Personal site [https://isnackable.me/](https://isnackable.github.io/)
 
 
 ## ⚙️ Languages and Tools
@@ -20,10 +20,8 @@
 
 ## 💻 Open Source Work Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISnackable&show_icons=true" alt="isnackable" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isnackable" alt="isnackable" width="49.5%"/>
-</p>
+![Metrics](/github-metrics.svg)
+
 
 <!--
 **ISnackable/ISnackable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
