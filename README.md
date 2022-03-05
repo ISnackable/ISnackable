@@ -10,7 +10,7 @@
 
 - 💬 Talk to me about **CTF, Hacking, Linux, Reverse Engineering**
 
-- 📝 Personal site [https://isnackable.me/](https://isnackable.github.io/)
+- 📝 Personal site [https://isnackable.me/](https://isnackable.me/)
 
 
 ## ⚙️ Languages and Tools
