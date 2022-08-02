@@ -20,8 +20,9 @@
 
 ## 💻 Open Source Work Stats
 
-![Metrics](/github-metrics.svg)
+![](https://komarev.com/ghpvc/?username=ISnackable)
 
+![Metrics](/github-metrics.svg)
 
 <!--
 **ISnackable/ISnackable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
